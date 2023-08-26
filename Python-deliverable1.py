@@ -7,11 +7,10 @@ if A == "3":
     str1 = float(input("How many putts for hole 1? (par: 3)"))
     str2 = float(input("How many putts for hole 2? (par: 3)"))
     str3 = float(input("How many putts for hole 3? (par: 3)"))
+    str4 = 3
+    str5 = 3
+    str6 = 3
 
-    if A == "3":
-        str4 = 3
-        str5 = 3
-        str6 = 3
 else:
     str1 = float(input("How many putts for hole 1? (par: 3)"))
     str2 = float(input("How many putts for hole 2? (par: 3)"))
